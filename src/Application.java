@@ -12,8 +12,6 @@ public class Application {
         Scanner sc = new Scanner(System.in);
         int j = sc.nextInt();
         System.out.println("ВЫ ВЫБРАЛИ  " + j);
-
-        //iugui
     }
 
 }
