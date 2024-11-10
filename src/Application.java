@@ -120,7 +120,7 @@ public class Application {
 
         if (iMenu == 4 ) {
             System.out.println("РАЗДЕЛ В РАЗРАБОТКЕ");
-            System.out.println("ВЫЙДЕТ С ОБНОВЛЕНИЕМ");
+
         }
 
 
