@@ -119,7 +119,7 @@ public class Application {
         //StAnaliz-----------------------------------------------------------------------------------
 
         if (iMenu == 4 ) {
-            System.out.println("РАЗДЕЛ В РАЗРАБОТКЕ");
+            System.out.println("РАЗДЕЛ В РАЗРАБОТКЕ ");
 
         }
 
